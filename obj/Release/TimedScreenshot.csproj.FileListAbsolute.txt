@@ -1,0 +1,9 @@
+C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\bin\Release\TimedScreenshot.exe.config
+C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\bin\Release\TimedScreenshot.exe
+C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\bin\Release\TimedScreenshot.pdb
+C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\obj\Release\TimedScreenshot.Form1.resources
+C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\obj\Release\TimedScreenshot.Properties.Resources.resources
+C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\obj\Release\TimedScreenshot.csproj.GenerateResource.cache
+C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\obj\Release\TimedScreenshot.csproj.CoreCompileInputs.cache
+C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\obj\Release\TimedScreenshot.exe
+C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\obj\Release\TimedScreenshot.pdb
