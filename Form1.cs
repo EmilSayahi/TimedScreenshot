@@ -192,7 +192,7 @@ namespace TimedScreenshot
                         {
                             g.CopyFromScreen(dm.dmPositionX, dm.dmPositionY, 0, 0, bmp.Size);
                             bmp.Save(filename + "_" + screen.DeviceName.Split('\\').Last() + ".png");
-                            MessageBox.Show("Captured to " + filename + "_" + screen.DeviceName.Split('\\').Last() + ".png");
+                            //MessageBox.Show("Captured to " + filename + "_" + screen.DeviceName.Split('\\').Last() + ".png");
                         }
                     }
                 }

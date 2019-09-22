@@ -7,3 +7,4 @@ C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreen
 C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\obj\Debug\TimedScreenshot.csproj.CoreCompileInputs.cache
 C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\obj\Debug\TimedScreenshot.exe
 C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\obj\Debug\TimedScreenshot.pdb
+C:\Users\emils\Documents\Visual Studio 2017\Projects\TimedScreenshot\TimedScreenshot\obj\Debug\TimedScreenshot.csprojAssemblyReference.cache
